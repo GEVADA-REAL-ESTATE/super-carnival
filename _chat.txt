@@ -1,0 +1,8 @@
+[25/3/2567 BE, 23:15:34] YES WE CAN: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[25/3/2567 BE, 23:15:34] YES WE CAN: ‎You created group “KiHiNe ”
+[25/3/2567 BE, 23:15:35] YES WE CAN: ‎‎‎Disappearing messages were turned on. ‎New messages will disappear from this chat ‎24 hours after they're sent, except when kept. ‎Tap to change.
+[25/3/2567 BE, 23:16:27] YES WE CAN: ‎You changed the group name to “YES WE CAN”
+[25/3/2567 BE, 23:17:31] YES WE CAN: ‎You changed the group description
+[25/3/2567 BE, 23:29:32] ‎You: ‎‎You turned off disappearing messages. ‎Tap to change.
+[25/3/2567 BE, 23:30:41] YES WE CAN: ‎You turned on admin approval to join this group
+[25/3/2567 BE, 23:30:47] GEVADA REAL  ESTATE: ‎You changed this group’s settings to allow all members to add others to this group
